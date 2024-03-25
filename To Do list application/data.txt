@@ -1,0 +1,3 @@
+gayi, , Low, Yes
+manthri, , Low, No
+jassu, , Low, No
